@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NamanxJain
 - 👀 I’m interested in Web Dev
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ...
 
 <!---
 NamanxJain/NamanxJain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
